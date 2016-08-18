@@ -1,0 +1,17 @@
+{
+    "name": "merriweather-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Sorkin Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/merriweather-bower.git"
+    },
+    "description": "Merriweather font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
